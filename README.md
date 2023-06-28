@@ -16,8 +16,6 @@
 </div> <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrisCarm)](https://github.com/KrisCarm/github-readme-stats) <br/>
-<p> Esses são meus sites </p> <br/>
-<a href="[https://github.com/seu_usuario](https://kriscarm.github.io/Pagina-RPG-/)https://kriscarm.github.io/Pagina-RPG-/">Visite meu Site</a>
 
 
 
